@@ -1,0 +1,2 @@
+.item__container{max-width:100%;background:#f5f591;border:1px solid #000;padding:25px;text-align:center;margin:15px}.item{list-style:none;padding:0;cursor:pointer;transition:color,-webkit-transform .3s ease;transition:color,transform .3s ease;transition:color,transform .3s ease,-webkit-transform .3s ease}.item:hover{-webkit-transform:scaleY(.9);transform:scaleY(.9)}.item__completed{color:green}.item__uncompleted{color:red}*{box-sizing:border-box}.list{padding:0}
+/*# sourceMappingURL=main.0a8c2c6b.chunk.css.map */
